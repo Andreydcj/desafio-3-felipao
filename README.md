@@ -19,7 +19,7 @@ Como rodar o projeto:
     Clone o repositório:
     Bash
 
-git clone https://github.com/Andreydcj/desafio-3-felipao.git
+    git clone https://github.com/Andreydcj/desafio-3-felipao.git
 
     Navegue até a pasta e execute o script:
     Bash
